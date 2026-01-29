@@ -1,3 +1,5 @@
+print("ку Pcashnik2009")
+
 import customtkinter as ctk
 
 from tkinter import messagebox, Toplevel
